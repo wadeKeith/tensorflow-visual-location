@@ -1,0 +1,2 @@
+model_checkpoint_path: "/home/ubuntu/PycharmProjects/yinchengxin/network_model/crack_capcha.model"
+all_model_checkpoint_paths: "/home/ubuntu/PycharmProjects/yinchengxin/network_model/crack_capcha.model"
